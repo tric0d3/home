@@ -1,4 +1,4 @@
-# tric0d3 - blog over development on an odenary life. 
+# tric0d3 - development daily
 
 * nodejs
 * docker
